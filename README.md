@@ -25,4 +25,12 @@ El commit debe estar documentado con mensajes claros.
 ## Entrega:
 En la entrega en la plataforma:  Pega el enlace para que me dirija directamente al FORK, (no les pedire que en el FORK añadan su nombre ya que el repositorio es publico y seguramente la mayoria tendrá un perfil
 con un Pseudonimo, por esta razón prefiero que en la entrega añadan el enclace y así evaluar.
+
+## 🔍 ¿Qué mejoras se han hecho?
+- ✅ Uso de List<String> en lugar de array → Permite agregar más actividades dinámicamente.
+- ✅ Encapsulación y seguridad → Métodos getNombre y setNombre con validaciones.
+- ✅ Validaciones en registrarUsuario y agregarActividad → No permite nombres vacíos o nulos.
+- ✅ Método mostrarUsuariosRegistrados → Ahora se pueden ver los usuarios inscritos.
+- ✅ Separación de main en otra clase → Mantiene una mejor estructura y escalabilidad.
+
 ## Nota: No será necesario hacer pull request.
